@@ -16,5 +16,5 @@
 ###
 
 <div>
- <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-icon-download-in-svg-png-gif-file-formats--minimal-icons-pack-miscellaneous-436639.png?f=webp&w=512"/>
+ <img src="https://iconscout.com/free-icon/javascript-14"/>
 </div>
