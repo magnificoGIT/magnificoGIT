@@ -16,5 +16,5 @@
 ###
 
 <div>
- <img src="https://www.flaticon.com/ru/free-icon/javascript_136530?term=javascript&page=1&position=13&origin=tag&related_id=136530"/>
+ <img src="https://img.icons8.com/?size=512&id=39854&format=png"/>
 </div>
