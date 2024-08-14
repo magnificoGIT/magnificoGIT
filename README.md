@@ -20,6 +20,6 @@
  <img width="25" />
  <img src="https://cdn-icons-png.flaticon.com/128/10435/10435436.png" height="50" />
  <img width="25" />
- <img src="https://cdn-icons-png.flaticon.com/128/136/136530.png" height="50" />
+ <img src="https://cdn-icons-png.flaticon.com/128/136/136527.png" height="50" />
  <img width="25" />
 </div>
