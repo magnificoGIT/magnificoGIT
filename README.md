@@ -17,5 +17,5 @@
 ###
 
 <div>
- <img src="http://www.w3.org/2000/svg/"/>
+ <img src="https://www.flaticon.com/ru/free-icon/javascript_136530"/>
 </div>
