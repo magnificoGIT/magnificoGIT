@@ -16,5 +16,5 @@
 ###
 
 <div>
- <img src="https://iconscout.com/free-icon/javascript-14"/>
+ <img src="https://iconscout.com/icons/javascript"/>
 </div>
