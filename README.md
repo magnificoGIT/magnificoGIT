@@ -1,4 +1,4 @@
-###
+![image](https://github.com/user-attachments/assets/bb7a759c-a8f6-4a4a-a95c-8da3b62c976a)###
  
 <h1>Привет, мир! Меня зовут Игорь! 👋</h1>
 
