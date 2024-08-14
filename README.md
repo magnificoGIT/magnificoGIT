@@ -16,5 +16,5 @@
 ###
 
 <div>
- <img src="https://cdn-icons-png.flaticon.com/128/136/136489.png"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/136/136530.png"/>
 </div>
