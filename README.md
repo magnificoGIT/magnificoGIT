@@ -50,4 +50,6 @@
  <img width="25" />
  <img src="https://img.icons8.com/?size=96&id=F6H2fsqXKBwH&format=png" height="50" alt="Иконка Notion" />
  <img width="25" />
+ <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" alt="Иконка postman" />
+ <img width="25" />
 </div>
