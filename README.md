@@ -20,7 +20,7 @@
  <img width="25" />
  <img src="https://cdn-icons-png.flaticon.com/128/331/331395.png" height="50" alt="Иконка HTML" />
  <img width="25" />
- <img src="https://cdn-icons-png.flaticon.com/128/136/136527.png" height="50" alt="Иконка CSS" />
+ <img src="https://cdn-icons-png.flaticon.com/128/331/331383.png" height="50" alt="Иконка CSS" />
  <img width="25" />
  <img src="https://cdn-icons-png.flaticon.com/128/7690/7690119.png" height="50" alt="Иконка React" />
  <img width="25" />
