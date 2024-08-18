@@ -26,4 +26,6 @@
  <img width="25" />
  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494740.png" height="50" alt="Иконка Git" />
  <img width="25" />
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" height="50" alt="Иконка mongoDB" />
+ <img width="25" />
 </div>
