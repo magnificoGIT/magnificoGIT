@@ -46,7 +46,7 @@
  <img width="25" />
  <img src="https://img.icons8.com/?size=96&id=zfHRZ6i1Wg0U&format=png" height="50" alt="Icon Figma" />
  <img width="25" />
- <img src="https://w7.pngwing.com/pngs/613/411/png-transparent-miro-app-logo-tech-companies-thumbnail.png" height="50" alt="Icon Miro" />
+ <img src="https://img.utdstc.com/icon/ece/0a9/ece0a96eeaca29c788f850499a78e2b52530b453a4d951cf44b8866f544b7105:200" height="50" alt="Icon Miro" />
  <img width="25" />
  <img src="https://img.icons8.com/?size=96&id=F6H2fsqXKBwH&format=png" height="50" alt="Иконка Notion" />
  <img width="25" />
